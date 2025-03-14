@@ -1,0 +1,33 @@
+<?php
+
+$_lang['language_ar'] = 'Árabe';
+$_lang['language_be'] = 'Bielo-russo';
+$_lang['language_bg'] = 'Búlgaro';
+$_lang['language_cs'] = 'Checo';
+$_lang['language_da'] = 'Dinamarquês';
+$_lang['language_de'] = 'Alemão';
+$_lang['language_el'] = 'Grego';
+$_lang['language_en'] = 'Inglês';
+$_lang['language_es'] = 'Espanhol';
+$_lang['language_et'] = 'Estónio';
+$_lang['language_fa'] = 'Persa';
+$_lang['language_fi'] = 'Finlandês';
+$_lang['language_fr'] = 'Francês';
+$_lang['language_he'] = 'Hebraico';
+$_lang['language_hi'] = 'Hindú';
+$_lang['language_hu'] = 'Húngaro';
+$_lang['language_id'] = 'Indonésio';
+$_lang['language_it'] = 'Italiano';
+$_lang['language_ja'] = '﻿Japonês';
+$_lang['language_nl'] = 'Holandês';
+$_lang['language_pl'] = 'Polonês';
+$_lang['language_pt'] = 'Português';
+$_lang['language_pt-br'] = 'Português (Brasileiro)';
+$_lang['language_ro'] = 'Romeno';
+$_lang['language_ru'] = 'Russo';
+$_lang['language_sv'] = 'Sueco';
+$_lang['language_th'] = 'Tailandês';
+$_lang['language_tr'] = 'Turco';
+$_lang['language_uk'] = 'Ucraniano';
+$_lang['language_yo'] = 'Iorubá';
+$_lang['language_zh'] = 'Chinês simplificado';
