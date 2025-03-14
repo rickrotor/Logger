@@ -71,3 +71,4 @@ $ php transport.core.php
 #### Step 2:
 1. run docker
 2. go to /setup page and fill all fields
+3. finish setup and remove /setup folder
