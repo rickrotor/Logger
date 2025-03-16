@@ -15,6 +15,7 @@ services:
       APACHE_RUN_GROUP: www-data
     working_dir: /var/www/html
     restart: always
+    command: ["sh", "-c", "php /var/www/html/migrations/runner.php && apache2-foreground"]
 
   db:
     image: mysql:8.0.36-oracle
