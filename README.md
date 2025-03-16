@@ -11,10 +11,13 @@
 4. cp build.properties.sample.php build.properties.php
 5. php transport.core.php
 
-#### Step 2:
+#### Step 2: run docker build and setup modx
 1. run: docker-composer up -d
 2. go to /setup page and fill all fields
 3. finish setup and remove /setup folder
+
+#### Step 3:
+1. add .env file with API_KEY var for use api
 
 #### Migrations:
 1. You can't change old migrations → create new ones.
