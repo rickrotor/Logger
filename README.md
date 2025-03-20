@@ -3,10 +3,12 @@
 #### Requirments:
 - composer
 - docker + docker-compose
+- php
 
 #### Step 1: run commands in terminal for install modx depends
-1. composer install
-2. cd www/_build
+1. install php lib - sudo apt install php-xml php-gd php-zip
+1. run in project lib - composer install
+2. move to dir in project - cd /_build
 3. cp build.config.sample.php build.config.php
 4. cp build.properties.sample.php build.properties.php
 5. php transport.core.php
