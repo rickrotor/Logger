@@ -8,6 +8,7 @@ web.config
 
 # ignore all config.core.php
 config.core.php
+!/setup/includes/config.core.php
 
 # ignore all config.context.php
 config.context.php
